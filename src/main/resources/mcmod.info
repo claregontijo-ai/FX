@@ -1,0 +1,10 @@
+[
+  {
+    "modid": "aurorafx",
+    "name": "AuroraFX",
+    "description": "Mod puramente visual para Minecraft 1.8.9: aura no alvo, efeito de hit, trails e HUD estilo ilha.",
+    "version": "${version}",
+    "mcversion": "1.8.9",
+    "authorList": ["voce"]
+  }
+]
